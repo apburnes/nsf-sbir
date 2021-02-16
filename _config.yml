@@ -108,3 +108,7 @@ topics_api:
     - piLastName
     - piPhone
     - piEmail
+    
+redirection:
+  - from: https://seedfund.nsf.gov/supplement/instructions.jsp
+    to: /resources/awardees/supplement/overview/
