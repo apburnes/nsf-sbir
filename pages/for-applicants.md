@@ -19,7 +19,7 @@ If you’re interested in applying for funding, we encourage you to watch our vi
 {% if site.app_process == "active" %}
 ## Virtual Office Hours
 
-Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a [recorded webinar](https://youtu.be/oVhWWydWWc4) about the program and the Project Pitch. (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
+Thinking of applying for Phase I funding? Ask all your application-related questions during our [Virtual Office Hours](https://seedfund.nsf.gov/events/) or watch a recorded [program overview](https://youtu.be/oVhWWydWWc4) or a recorded [how to apply overview](https://youtu.be/tFPIn8wDQUo). (We offer a [PDF version of program basics]({{site.baseurl}}/assets/files/press/overview2020.pdf), too.)
 
 {% else %}
 ## Q&A videos
@@ -51,7 +51,7 @@ Once you've received an invitation to submit a proposal (via the Project Pitch p
 </div>
 ## FAQ
 
-Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2020/nsf20031/nsf20031.jsp), which covers the pre-application process to post-award reporting (and everything in between).
+Have lingering questions? Visit our [FAQ](https://www.nsf.gov/pubs/2021/nsf21060/nsf21060.jsp), which covers the pre-application process to post-award reporting (and everything in between).
 
 ## FastLane guide
 
